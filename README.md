@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/praditya-luthfi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="pradityaluthfi54@gmail.com" target="_blank">
+  <a href="mailto:pradityaluthfi54@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Web Development Enthusiast<br><br>-🌍  I'm based in Indonesia<br>-✉  You can contact me at pradityaluthfi54@gmail.com<br>-🤝  I'm open to collaborating on anything else</p>
+<p align="left">Web Development Enthusiast<br><br>-🌍  I'm based in Indonesia<br>-✉  You can contact me at <a href="mailto:pradityaluthfi54@gmail.com">pradityaluthfi54@gmail.com</a><br>-🤝  I'm open to collaborating on anything else</p>
 
 ###
 
