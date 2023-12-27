@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋 My name is Praditya Luthfi</h1>
+<h1 align="center">Hi 👋 My name is Praditya Luthfi</h1>
 
 ###
 
